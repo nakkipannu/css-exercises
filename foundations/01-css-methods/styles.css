@@ -1,0 +1,17 @@
+/* styles.css **/
+
+div {
+    padding: 2px 5px 5px 5px;
+    background-color: white;
+    margin: 25vh 25vh;
+    height: auto;
+    width: 60%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+}
