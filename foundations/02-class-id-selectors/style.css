@@ -1,39 +1,17 @@
-/* styles.css */
-
-
-
-p {
-    background-color: rgb(247, 156, 171);
-    color: black;
-    font-family: Verdana, "DejaVu", sans-serif;
+.odd {
+ background-color: pink;   
+ font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#onid {
-    color: rgb(22, 22, 212);
+.adjust-font-size {
+    font-size: 24px;
 }
 
-#anotherid {
-    background-color: rgb(12, 180, 12);
-}
-
-#font {
-    font-size: 40px;
-    font-weight: 500;
-    font-family: Verdana, "DejaVU", sans-serif;
-}
-
-
-.greenbgrd {
-    background-color: rgb(61, 224, 61);
-    font-size: 40px;
-    font-weight: 600;
-}
-
-.blue {
+#two {
     color: blue;
-    font-size: 60px;
+    font-size: 36px;
 }
 
-#fontsize {
-    font-size: 30px;
+#four {
+    background-color: green;
 }
