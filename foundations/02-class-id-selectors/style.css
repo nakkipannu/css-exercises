@@ -1,0 +1,39 @@
+/* styles.css */
+
+
+
+p {
+    background-color: rgb(247, 156, 171);
+    color: black;
+    font-family: Verdana, "DejaVu", sans-serif;
+}
+
+#onid {
+    color: rgb(22, 22, 212);
+}
+
+#anotherid {
+    background-color: rgb(12, 180, 12);
+}
+
+#font {
+    font-size: 40px;
+    font-weight: 500;
+    font-family: Verdana, "DejaVU", sans-serif;
+}
+
+
+.greenbgrd {
+    background-color: rgb(61, 224, 61);
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.blue {
+    color: blue;
+    font-size: 60px;
+}
+
+#fontsize {
+    font-size: 30px;
+}
